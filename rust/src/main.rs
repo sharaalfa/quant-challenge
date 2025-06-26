@@ -1,4 +1,8 @@
-// Точка входа для реализации
+mod domain;
+
+mod application;
+mod infrastructure;
+
 use tracing::info;
 
 #[tokio::main]

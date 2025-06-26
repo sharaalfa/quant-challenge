@@ -15,3 +15,14 @@ target/
 
 # IDE
 .idea
+*.iml
+
+# Python
+build
+__pycache__/
+*.py[cod]
+.venv
+env
+
+# OS
+.DS_STORE
