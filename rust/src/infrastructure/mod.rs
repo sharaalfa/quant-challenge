@@ -1,1 +1,1 @@
-// infra layer
+mod adapters;
