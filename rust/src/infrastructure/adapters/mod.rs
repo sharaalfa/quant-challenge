@@ -1,3 +1,3 @@
 pub mod bybit;
 
-pub use bybit::{BybitClient, HttpBybitClient, OrderbookSnapshot};
+pub use bybit::{BybitClient, HttpBybitClient};

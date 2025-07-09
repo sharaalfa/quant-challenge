@@ -1,1 +1,1 @@
-mod adapters;
+pub(crate) mod adapters;

@@ -1,0 +1,204 @@
+2025-07-09T07:46:48.008679Z  INFO Hello, Quant!
+2025-07-09T07:46:48.040419Z  INFO Starting data collection for BTCUSDT (100 samples, interval 100s)
+2025-07-09T07:46:48.040530Z  INFO Collecting 100 snapshots..
+2025-07-09T07:46:48.435412Z  INFO Collected snapshot 1/100
+2025-07-09T07:46:53.657534Z  INFO Collected snapshot 2/100
+2025-07-09T07:46:58.880450Z  INFO Collected snapshot 3/100
+2025-07-09T07:47:04.101748Z  INFO Collected snapshot 4/100
+2025-07-09T07:47:09.312349Z  INFO Collected snapshot 5/100
+2025-07-09T07:47:14.956063Z  INFO Collected snapshot 6/100
+2025-07-09T07:47:20.178441Z  INFO Collected snapshot 7/100
+2025-07-09T07:47:25.392343Z  INFO Collected snapshot 8/100
+2025-07-09T07:47:30.602982Z  INFO Collected snapshot 9/100
+2025-07-09T07:47:35.845509Z  INFO Collected snapshot 10/100
+2025-07-09T07:47:41.067899Z  INFO Collected snapshot 11/100
+2025-07-09T07:47:46.290427Z  INFO Collected snapshot 12/100
+2025-07-09T07:47:51.503172Z  INFO Collected snapshot 13/100
+2025-07-09T07:47:56.735343Z  INFO Collected snapshot 14/100
+2025-07-09T07:48:01.946480Z  INFO Collected snapshot 15/100
+2025-07-09T07:48:07.519582Z  INFO Collected snapshot 16/100
+2025-07-09T07:48:12.811938Z  INFO Collected snapshot 17/100
+2025-07-09T07:48:18.035173Z  INFO Collected snapshot 18/100
+2025-07-09T07:48:23.246363Z  INFO Collected snapshot 19/100
+2025-07-09T07:48:28.888741Z  INFO Collected snapshot 20/100
+2025-07-09T07:48:34.110751Z  INFO Collected snapshot 21/100
+2025-07-09T07:48:39.322789Z  INFO Collected snapshot 22/100
+2025-07-09T07:48:44.555962Z  INFO Collected snapshot 23/100
+2025-07-09T07:48:49.777655Z  INFO Collected snapshot 24/100
+2025-07-09T07:48:54.991781Z  INFO Collected snapshot 25/100
+2025-07-09T07:49:00.222614Z  INFO Collected snapshot 26/100
+2025-07-09T07:49:05.432625Z  INFO Collected snapshot 27/100
+2025-07-09T07:49:10.667671Z  INFO Collected snapshot 28/100
+2025-07-09T07:49:15.878258Z  INFO Collected snapshot 29/100
+2025-07-09T07:49:21.447350Z  INFO Collected snapshot 30/100
+2025-07-09T07:49:26.743970Z  INFO Collected snapshot 31/100
+2025-07-09T07:49:31.957210Z  INFO Collected snapshot 32/100
+2025-07-09T07:49:37.167709Z  INFO Collected snapshot 33/100
+2025-07-09T07:49:42.378686Z  INFO Collected snapshot 34/100
+2025-07-09T07:49:47.793224Z  INFO Collected snapshot 35/100
+2025-07-09T07:49:53.060664Z  INFO Collected snapshot 36/100
+2025-07-09T07:49:58.632144Z  INFO Collected snapshot 37/100
+2025-07-09T07:50:03.914825Z  INFO Collected snapshot 38/100
+2025-07-09T07:50:09.127241Z  INFO Collected snapshot 39/100
+2025-07-09T07:50:14.359236Z  INFO Collected snapshot 40/100
+2025-07-09T07:50:19.934081Z  INFO Collected snapshot 41/100
+2025-07-09T07:50:25.145028Z  INFO Collected snapshot 42/100
+2025-07-09T07:50:30.357026Z  INFO Collected snapshot 43/100
+2025-07-09T07:50:35.568082Z  INFO Collected snapshot 44/100
+2025-07-09T07:50:40.778069Z  INFO Collected snapshot 45/100
+2025-07-09T07:50:45.989936Z  INFO Collected snapshot 46/100
+2025-07-09T07:50:51.201804Z  INFO Collected snapshot 47/100
+2025-07-09T07:50:56.446345Z  INFO Collected snapshot 48/100
+2025-07-09T07:51:01.667554Z  INFO Collected snapshot 49/100
+2025-07-09T07:51:06.890192Z  INFO Collected snapshot 50/100
+2025-07-09T07:51:12.112230Z  INFO Collected snapshot 51/100
+2025-07-09T07:51:17.324362Z  INFO Collected snapshot 52/100
+2025-07-09T07:51:22.534963Z  INFO Collected snapshot 53/100
+2025-07-09T07:51:27.779258Z  INFO Collected snapshot 54/100
+2025-07-09T07:51:33.001509Z  INFO Collected snapshot 55/100
+2025-07-09T07:51:38.213495Z  INFO Collected snapshot 56/100
+2025-07-09T07:51:43.784393Z  INFO Collected snapshot 57/100
+2025-07-09T07:51:48.998535Z  INFO Collected snapshot 58/100
+2025-07-09T07:51:54.209564Z  INFO Collected snapshot 59/100
+2025-07-09T07:51:59.779025Z  INFO Collected snapshot 60/100
+2025-07-09T07:52:05.351976Z  INFO Collected snapshot 61/100
+2025-07-09T07:52:10.564434Z  INFO Collected snapshot 62/100
+2025-07-09T07:52:15.775992Z  INFO Collected snapshot 63/100
+2025-07-09T07:52:21.026863Z  INFO Collected snapshot 64/100
+2025-07-09T07:52:26.238504Z  INFO Collected snapshot 65/100
+2025-07-09T07:52:31.471995Z  INFO Collected snapshot 66/100
+2025-07-09T07:52:36.693987Z  INFO Collected snapshot 67/100
+2025-07-09T07:52:41.917236Z  INFO Collected snapshot 68/100
+2025-07-09T07:52:47.138398Z  INFO Collected snapshot 69/100
+2025-07-09T07:52:52.360786Z  INFO Collected snapshot 70/100
+2025-07-09T07:52:57.589820Z  INFO Collected snapshot 71/100
+2025-07-09T07:53:02.804317Z  INFO Collected snapshot 72/100
+2025-07-09T07:53:08.027656Z  INFO Collected snapshot 73/100
+2025-07-09T07:53:13.238197Z  INFO Collected snapshot 74/100
+2025-07-09T07:53:18.472526Z  INFO Collected snapshot 75/100
+2025-07-09T07:53:24.105120Z  INFO Collected snapshot 76/100
+2025-07-09T07:53:29.326843Z  INFO Collected snapshot 77/100
+2025-07-09T07:53:34.540080Z  INFO Collected snapshot 78/100
+2025-07-09T07:53:39.753811Z  INFO Collected snapshot 79/100
+2025-07-09T07:53:44.994007Z  INFO Collected snapshot 80/100
+2025-07-09T07:53:50.205013Z  INFO Collected snapshot 81/100
+2025-07-09T07:53:55.430313Z  INFO Collected snapshot 82/100
+2025-07-09T07:54:00.660621Z  INFO Collected snapshot 83/100
+2025-07-09T07:54:05.883018Z  INFO Collected snapshot 84/100
+2025-07-09T07:54:11.105304Z  INFO Collected snapshot 85/100
+2025-07-09T07:54:16.318119Z  INFO Collected snapshot 86/100
+2025-07-09T07:54:21.528105Z  INFO Collected snapshot 87/100
+2025-07-09T07:54:26.740141Z  INFO Collected snapshot 88/100
+2025-07-09T07:54:31.995084Z  INFO Collected snapshot 89/100
+2025-07-09T07:54:37.206878Z  INFO Collected snapshot 90/100
+2025-07-09T07:54:42.849644Z  INFO Collected snapshot 91/100
+2025-07-09T07:54:48.071525Z  INFO Collected snapshot 92/100
+2025-07-09T07:54:53.285396Z  INFO Collected snapshot 93/100
+2025-07-09T07:54:58.515952Z  INFO Collected snapshot 94/100
+2025-07-09T07:55:03.729487Z  INFO Collected snapshot 95/100
+2025-07-09T07:55:08.961153Z  INFO Collected snapshot 96/100
+2025-07-09T07:55:14.183099Z  INFO Collected snapshot 97/100
+2025-07-09T07:55:19.752118Z  INFO Collected snapshot 98/100
+2025-07-09T07:55:24.965932Z  INFO Collected snapshot 99/100
+2025-07-09T07:55:30.175878Z  INFO Collected snapshot 100/100
+2025-07-09T07:55:30.176071Z  INFO Delta between snapshots 1 and 2: 0.0000
+2025-07-09T07:55:30.176166Z  INFO Delta between snapshots 2 and 3: 0.0000
+2025-07-09T07:55:30.176172Z  INFO Delta between snapshots 3 and 4: 0.0000
+2025-07-09T07:55:30.176176Z  INFO Delta between snapshots 4 and 5: 0.0000
+2025-07-09T07:55:30.176180Z  INFO Delta between snapshots 5 and 6: 0.0000
+2025-07-09T07:55:30.176184Z  INFO Delta between snapshots 6 and 7: 0.0000
+2025-07-09T07:55:30.176188Z  INFO Delta between snapshots 7 and 8: 0.0000
+2025-07-09T07:55:30.176196Z  INFO Delta between snapshots 8 and 9: 0.0000
+2025-07-09T07:55:30.176200Z  INFO Delta between snapshots 9 and 10: 0.0000
+2025-07-09T07:55:30.176204Z  INFO Delta between snapshots 10 and 11: 0.0000
+2025-07-09T07:55:30.176207Z  INFO Delta between snapshots 11 and 12: 0.0000
+2025-07-09T07:55:30.176211Z  INFO Delta between snapshots 12 and 13: 0.0000
+2025-07-09T07:55:30.176215Z  INFO Delta between snapshots 13 and 14: 0.0000
+2025-07-09T07:55:30.176221Z  INFO Delta between snapshots 14 and 15: 4.3790
+2025-07-09T07:55:30.176304Z  INFO Delta between snapshots 15 and 16: 0.0001
+2025-07-09T07:55:30.176309Z  INFO Delta between snapshots 16 and 17: -0.0000
+2025-07-09T07:55:30.176313Z  INFO Delta between snapshots 17 and 18: -4.3736
+2025-07-09T07:55:30.176317Z  INFO Delta between snapshots 18 and 19: 0.0000
+2025-07-09T07:55:30.176321Z  INFO Delta between snapshots 19 and 20: -0.0000
+2025-07-09T07:55:30.176325Z  INFO Delta between snapshots 20 and 21: 0.0000
+2025-07-09T07:55:30.176331Z  INFO Delta between snapshots 21 and 22: 0.0000
+2025-07-09T07:55:30.176334Z  INFO Delta between snapshots 22 and 23: 4.3727
+2025-07-09T07:55:30.176338Z  INFO Delta between snapshots 23 and 24: -4.3727
+2025-07-09T07:55:30.176342Z  INFO Delta between snapshots 24 and 25: 0.0000
+2025-07-09T07:55:30.176346Z  INFO Delta between snapshots 25 and 26: 4.3729
+2025-07-09T07:55:30.176350Z  INFO Delta between snapshots 26 and 27: -4.3729
+2025-07-09T07:55:30.176353Z  INFO Delta between snapshots 27 and 28: 4.3736
+2025-07-09T07:55:30.176360Z  INFO Delta between snapshots 28 and 29: -4.3736
+2025-07-09T07:55:30.176364Z  INFO Delta between snapshots 29 and 30: 4.3736
+2025-07-09T07:55:30.176368Z  INFO Delta between snapshots 30 and 31: -0.0007
+2025-07-09T07:55:30.176372Z  INFO Delta between snapshots 31 and 32: 0.0000
+2025-07-09T07:55:30.176376Z  INFO Delta between snapshots 32 and 33: -4.3729
+2025-07-09T07:55:30.176381Z  INFO Delta between snapshots 33 and 34: 0.0000
+2025-07-09T07:55:30.176384Z  INFO Delta between snapshots 34 and 35: 4.3729
+2025-07-09T07:55:30.176392Z  INFO Delta between snapshots 35 and 36: -4.3729
+2025-07-09T07:55:30.176396Z  INFO Delta between snapshots 36 and 37: 0.0000
+2025-07-09T07:55:30.176400Z  INFO Delta between snapshots 37 and 38: 0.0000
+2025-07-09T07:55:30.176404Z  INFO Delta between snapshots 38 and 39: 0.0000
+2025-07-09T07:55:30.176408Z  INFO Delta between snapshots 39 and 40: 0.0000
+2025-07-09T07:55:30.176411Z  INFO Delta between snapshots 40 and 41: 0.0000
+2025-07-09T07:55:30.176417Z  INFO Delta between snapshots 41 and 42: 0.0000
+2025-07-09T07:55:30.176420Z  INFO Delta between snapshots 42 and 43: 0.0000
+2025-07-09T07:55:30.176424Z  INFO Delta between snapshots 43 and 44: 0.0000
+2025-07-09T07:55:30.176428Z  INFO Delta between snapshots 44 and 45: -0.0055
+2025-07-09T07:55:30.176432Z  INFO Delta between snapshots 45 and 46: 0.0000
+2025-07-09T07:55:30.176436Z  INFO Delta between snapshots 46 and 47: 0.0000
+2025-07-09T07:55:30.176440Z  INFO Delta between snapshots 47 and 48: 0.0000
+2025-07-09T07:55:30.176445Z  INFO Delta between snapshots 48 and 49: 4.3368
+2025-07-09T07:55:30.176449Z  INFO Delta between snapshots 49 and 50: 0.0000
+2025-07-09T07:55:30.176452Z  INFO Delta between snapshots 50 and 51: 0.0000
+2025-07-09T07:55:30.176456Z  INFO Delta between snapshots 51 and 52: 0.0000
+2025-07-09T07:55:30.176461Z  INFO Delta between snapshots 52 and 53: 0.0000
+2025-07-09T07:55:30.176466Z  INFO Delta between snapshots 53 and 54: 0.0000
+2025-07-09T07:55:30.176469Z  INFO Delta between snapshots 54 and 55: 0.0000
+2025-07-09T07:55:30.176476Z  INFO Delta between snapshots 55 and 56: 0.0000
+2025-07-09T07:55:30.176480Z  INFO Delta between snapshots 56 and 57: 0.0000
+2025-07-09T07:55:30.176484Z  INFO Delta between snapshots 57 and 58: 0.0000
+2025-07-09T07:55:30.176487Z  INFO Delta between snapshots 58 and 59: 0.0000
+2025-07-09T07:55:30.176491Z  INFO Delta between snapshots 59 and 60: 0.0000
+2025-07-09T07:55:30.176494Z  INFO Delta between snapshots 60 and 61: 0.0000
+2025-07-09T07:55:30.176506Z  INFO Delta between snapshots 61 and 62: 0.0000
+2025-07-09T07:55:30.176509Z  INFO Delta between snapshots 62 and 63: -4.3368
+2025-07-09T07:55:30.176513Z  INFO Delta between snapshots 63 and 64: 0.0000
+2025-07-09T07:55:30.176516Z  INFO Delta between snapshots 64 and 65: 0.0000
+2025-07-09T07:55:30.176520Z  INFO Delta between snapshots 65 and 66: 0.0000
+2025-07-09T07:55:30.176524Z  INFO Delta between snapshots 66 and 67: 0.0000
+2025-07-09T07:55:30.176527Z  INFO Delta between snapshots 67 and 68: 0.0000
+2025-07-09T07:55:30.176533Z  INFO Delta between snapshots 68 and 69: 0.0000
+2025-07-09T07:55:30.176536Z  INFO Delta between snapshots 69 and 70: 0.0000
+2025-07-09T07:55:30.176540Z  INFO Delta between snapshots 70 and 71: 0.0000
+2025-07-09T07:55:30.176544Z  INFO Delta between snapshots 71 and 72: 0.0000
+2025-07-09T07:55:30.176548Z  INFO Delta between snapshots 72 and 73: 0.0001
+2025-07-09T07:55:30.176551Z  INFO Delta between snapshots 73 and 74: 0.0001
+2025-07-09T07:55:30.176555Z  INFO Delta between snapshots 74 and 75: -0.0002
+2025-07-09T07:55:30.176560Z  INFO Delta between snapshots 75 and 76: 0.0001
+2025-07-09T07:55:30.176563Z  INFO Delta between snapshots 76 and 77: -0.0000
+2025-07-09T07:55:30.176568Z  INFO Delta between snapshots 77 and 78: -0.0001
+2025-07-09T07:55:30.176572Z  INFO Delta between snapshots 78 and 79: 0.0000
+2025-07-09T07:55:30.176576Z  INFO Delta between snapshots 79 and 80: 0.0055
+2025-07-09T07:55:30.176580Z  INFO Delta between snapshots 80 and 81: -0.0055
+2025-07-09T07:55:30.176585Z  INFO Delta between snapshots 81 and 82: 0.0000
+2025-07-09T07:55:30.176597Z  INFO Delta between snapshots 82 and 83: 0.0000
+2025-07-09T07:55:30.176601Z  INFO Delta between snapshots 83 and 84: 0.0000
+2025-07-09T07:55:30.176605Z  INFO Delta between snapshots 84 and 85: 0.0000
+2025-07-09T07:55:30.176608Z  INFO Delta between snapshots 85 and 86: 0.0000
+2025-07-09T07:55:30.176612Z  INFO Delta between snapshots 86 and 87: 0.0000
+2025-07-09T07:55:30.176615Z  INFO Delta between snapshots 87 and 88: 0.0000
+2025-07-09T07:55:30.176622Z  INFO Delta between snapshots 88 and 89: 0.0000
+2025-07-09T07:55:30.176626Z  INFO Delta between snapshots 89 and 90: 0.0000
+2025-07-09T07:55:30.176630Z  INFO Delta between snapshots 90 and 91: 0.0000
+2025-07-09T07:55:30.176633Z  INFO Delta between snapshots 91 and 92: 0.0000
+2025-07-09T07:55:30.176637Z  INFO Delta between snapshots 92 and 93: 0.0000
+2025-07-09T07:55:30.176641Z  INFO Delta between snapshots 93 and 94: 0.0000
+2025-07-09T07:55:30.176645Z  INFO Delta between snapshots 94 and 95: 4.2854
+2025-07-09T07:55:30.176651Z  INFO Delta between snapshots 95 and 96: 0.0000
+2025-07-09T07:55:30.176655Z  INFO Delta between snapshots 96 and 97: 0.0018
+2025-07-09T07:55:30.176659Z  INFO Delta between snapshots 97 and 98: 0.0000
+2025-07-09T07:55:30.176662Z  INFO Delta between snapshots 98 and 99: 0.0000
+2025-07-09T07:55:30.176666Z  INFO Delta between snapshots 99 and 100: 0.0000
+2025-07-09T07:55:30.193228Z  INFO Running backtest with threshold 5.00
+2025-07-09T07:55:30.193447Z  INFO Finished analysing!

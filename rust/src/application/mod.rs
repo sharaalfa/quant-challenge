@@ -1,3 +1,6 @@
+pub(crate) mod orderbook_analyzer;
+pub mod reporting;
+
 pub trait Command {}
 
 pub trait Query {}
